@@ -1,4 +1,4 @@
-//calculator 
+//calculator changes in GIT
 var num1=process.argv[2];
 var num2=process.argv[3];
 var oprator=process.argv[4];
